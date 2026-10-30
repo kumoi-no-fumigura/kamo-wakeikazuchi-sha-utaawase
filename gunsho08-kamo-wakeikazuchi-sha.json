@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kamo-wakeikazuchi-sha-utaawase",
  "yomi": "かものわけいかずちしゃうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三題）",
+  "era": "鎌倉前期",
+  "author": "主催 後鳥羽院",
+  "desc": "後鳥羽院のもとで賀茂別雷社（上賀茂社）に奉納された歌合。海辺帰雁・暮山春雨・社頭夜風の題で、院・慈円・通具・有家・定家・俊成卿女・家隆・雅経・秀能らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
